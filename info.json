@@ -17,15 +17,5 @@
         "imdbRating": 8,
 
         "loc": "lib/assets/image/2.jpg"
-    },
-    {
-
-        "title": "barn",
-
-        "summary": "blabla",
-
-        "imdbRating": 4,
-
-        "loc": "lib/assets/image/3.jpg"
     }
 ]
