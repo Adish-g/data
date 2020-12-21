@@ -4,7 +4,7 @@
 
         "summary": "blabla",
 
-        "imdbRating": "8.4",
+        "imdbRating": " 8.4",
 
         "loc": "lib/assets/image/1.jpg"
     },
@@ -14,7 +14,7 @@
 
         "summary": "blabla",
 
-        "imdbRating": "8",
+        "imdbRating": " 8",
 
         "loc": "lib/assets/image/2.jpg"
     },
@@ -24,7 +24,7 @@
 
         "summary": "blabla",
 
-        "imdbRating": "4",
+        "imdbRating": " 4",
 
         "loc": "lib/assets/image/3.jpg"
     }
