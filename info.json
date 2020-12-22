@@ -263,62 +263,50 @@
     },
     {
 
-        "title": "asda",
+        "title": "Arthur Christmas",
 
-        "summary": "asdasd",
+        "summary": "Santa does the unthinkable and forgets to deliver a gift to a child on Christmas Eve — and his youngest son, Arthur, must make the delivery before dawn. Pixar-level animation and wry British humor from the Wallace & Gromit team make this a heartwarming flick for the whole family.",
             
-        "imdbRating": " ",
+        "imdbRating": " 7.1",
 
-        "loc": "lib/assets/image/3.jpg"
+        "loc": "lib/assets/image/23.jpg"
         
-        "watch": "sdf"
+        "watch": "https://www.amazon.com/gp/video/detail/B009SQQRH2/ref=atv_dp_share_cu_r"
     },
     {
 
-        "title": "asda",
+        "title": "Rudolph the Red-Nosed Reindeer",
 
-        "summary": "asdasd",
+        "summary": "The classic story of Rudolph the Red-Nosed Reindeer who's special nose saves Christmas.",
             
-        "imdbRating": " ",
+        "imdbRating": " 9.6",
 
-        "loc": "lib/assets/image/3.jpg"
+        "loc": "lib/assets/image/25.jpg"
         
-        "watch": "sdf"
+        "watch": "https://www.amazon.com/gp/video/detail/B01M74J8Z9/ref=atv_dp_share_cu_r"
     },
     {
 
-        "title": "asda",
+        "title": "Frosty the Snowman",
 
-        "summary": "asdasd",
+        "summary": "Do you remember when...the children made a snowman in the schoolyard on Christmas Eve and named him Frosty? Karen placed a top hat on his head and everyone's favorite snowman magically came to life? Look at Frosty go! Also learn to draw Frosty and Santa from a professional animator.",
             
-        "imdbRating": " ",
+        "imdbRating": " 7.3",
 
-        "loc": "lib/assets/image/3.jpg"
+        "loc": "lib/assets/image/26.jpg"
         
-        "watch": "sdf"
+        "watch": "https://www.amazon.com/gp/video/detail/B018T0J5WQ/ref=atv_dp_share_cu_r"
     },
     {
 
-        "title": "asda",
+        "title": "Jingle All the Way",
 
-        "summary": "asdasd",
+        "summary": "Starring Arnold Schwarzenegger and Sinbad as dads competing to get their sons the most popular Christmas toy of the year, this 1996 movie is as silly — and fun — as it sounds.",
             
-        "imdbRating": " ",
+        "imdbRating": " 5.6",
 
-        "loc": "lib/assets/image/3.jpg"
+        "loc": "lib/assets/image/24.jpg"
         
-        "watch": "sdf"
-    },
-    {
-
-        "title": "asda",
-
-        "summary": "asdasd",
-            
-        "imdbRating": " ",
-
-        "loc": "lib/assets/image/3.jpg"
-        
-        "watch": "sdf"
-    },
+        "watch": "https://www.amazon.com/gp/video/detail/B000SW4DQM/ref=atv_dp_share_cu_r"
+    }
 ]
