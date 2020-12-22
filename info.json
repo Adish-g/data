@@ -1,31 +1,324 @@
 [{
 
-        "title": "Himlens barn",
+        "title": "A Christmas Story (1983)",
 
-        "summary": "blabla",
+        "summary": "In the 1940s, a young boy named Ralphie attempts to convince his parents, his teacher and Santa that a Red Ryder BB gun really is the perfect Christmas gift.",
 
-        "imdbRating": " 8.4",
+        "imdbRating": " 7.9",
 
-        "loc": "lib/assets/image/1.jpg"
+        "loc": "lib/assets/image/1.jpg",
+        
+        "watch": "https://www.amazon.com/gp/video/detail/B0010HLGZA/ref=atv_dp_share_cu_r"
     },
     {
 
-        "title": "Himlens",
+        "title": "Elf (2003)",
 
-        "summary": "blabla",
-
-        "imdbRating": " 8",
+        "summary": "One Christmas Eve a long time ago, a baby crawled into Santa's bag of toys Raised as an elf. Buddy goes looking for his true place in the world--in New York City."
+        "imdbRating": " 7",
 
         "loc": "lib/assets/image/2.jpg"
+        
+        "watch": "https://www.amazon.com/gp/video/detail/B000YHE4AG/ref=atv_dp_share_cu_r"
     },
     {
 
-        "title": "barn",
+        "title": "The Grinch (2018)",
 
-        "summary": "blabla",
+        "summary": "The Grinch tells the story of a cynical grump who goes on a mission to steal Christmas, only to have his heart changed by a young girl's generous holiday spirit.",
 
-        "imdbRating": " 4",
+        "imdbRating": " ",
 
         "loc": "lib/assets/image/3.jpg"
-    }
+        
+        "watch": "https://www.amazon.com/gp/video/detail/B07K6X3J33/ref=atv_dp_share_cu_r"
+    },
+    {
+
+        "title": "National Lampoon's Christmas Vacation",
+
+        "summary": "The comic misadventures of the beleaguered Griswold family continue in this latest Vacation outing, the third and most successful of the series. The Griswold family's plans for a big family Christmas predictably turn into a big disaster.",
+            
+        "imdbRating": " 7.6",
+
+        "loc": "lib/assets/image/4.jpg"
+        
+        "watch": "sdf"
+    },
+    {
+
+        "title": "asda",
+
+        "summary": "asdasd",
+            
+        "imdbRating": " ",
+
+        "loc": "lib/assets/image/3.jpg"
+        
+        "watch": "sdf"
+    },
+    {
+
+        "title": "asda",
+
+        "summary": "asdasd",
+            
+        "imdbRating": " ",
+
+        "loc": "lib/assets/image/3.jpg"
+        
+        "watch": "sdf"
+    },
+    {
+
+        "title": "asda",
+
+        "summary": "asdasd",
+            
+        "imdbRating": " ",
+
+        "loc": "lib/assets/image/3.jpg"
+        
+        "watch": "sdf"
+    },
+    {
+
+        "title": "asda",
+
+        "summary": "asdasd",
+            
+        "imdbRating": " ",
+
+        "loc": "lib/assets/image/3.jpg"
+        
+        "watch": "sdf"
+    },
+    {
+
+        "title": "asda",
+
+        "summary": "asdasd",
+            
+        "imdbRating": " ",
+
+        "loc": "lib/assets/image/3.jpg"
+        
+        "watch": "sdf"
+    },
+    {
+
+        "title": "asda",
+
+        "summary": "asdasd",
+            
+        "imdbRating": " ",
+
+        "loc": "lib/assets/image/3.jpg"
+        
+        "watch": "sdf"
+    },
+    {
+
+        "title": "asda",
+
+        "summary": "asdasd",
+            
+        "imdbRating": " ",
+
+        "loc": "lib/assets/image/3.jpg"
+        
+        "watch": "sdf"
+    },
+    {
+
+        "title": "asda",
+
+        "summary": "asdasd",
+            
+        "imdbRating": " ",
+
+        "loc": "lib/assets/image/3.jpg"
+        
+        "watch": "sdf"
+    },
+    {
+
+        "title": "asda",
+
+        "summary": "asdasd",
+            
+        "imdbRating": " ",
+
+        "loc": "lib/assets/image/3.jpg"
+        
+        "watch": "sdf"
+    },
+    {
+
+        "title": "asda",
+
+        "summary": "asdasd",
+            
+        "imdbRating": " ",
+
+        "loc": "lib/assets/image/3.jpg"
+        
+        "watch": "sdf"
+    },
+    {
+
+        "title": "asda",
+
+        "summary": "asdasd",
+            
+        "imdbRating": " ",
+
+        "loc": "lib/assets/image/3.jpg"
+        
+        "watch": "sdf"
+    },
+    {
+
+        "title": "asda",
+
+        "summary": "asdasd",
+            
+        "imdbRating": " ",
+
+        "loc": "lib/assets/image/3.jpg"
+        
+        "watch": "sdf"
+    },
+    {
+
+        "title": "asda",
+
+        "summary": "asdasd",
+            
+        "imdbRating": " ",
+
+        "loc": "lib/assets/image/3.jpg"
+        
+        "watch": "sdf"
+    },
+    {
+
+        "title": "asda",
+
+        "summary": "asdasd",
+            
+        "imdbRating": " ",
+
+        "loc": "lib/assets/image/3.jpg"
+        
+        "watch": "sdf"
+    },
+    {
+
+        "title": "asda",
+
+        "summary": "asdasd",
+            
+        "imdbRating": " ",
+
+        "loc": "lib/assets/image/3.jpg"
+        
+        "watch": "sdf"
+    },
+    {
+
+        "title": "asda",
+
+        "summary": "asdasd",
+            
+        "imdbRating": " ",
+
+        "loc": "lib/assets/image/3.jpg"
+        
+        "watch": "sdf"
+    },
+    {
+
+        "title": "asda",
+
+        "summary": "asdasd",
+            
+        "imdbRating": " ",
+
+        "loc": "lib/assets/image/3.jpg"
+        
+        "watch": "sdf"
+    },
+    {
+
+        "title": "asda",
+
+        "summary": "asdasd",
+            
+        "imdbRating": " ",
+
+        "loc": "lib/assets/image/3.jpg"
+        
+        "watch": "sdf"
+    },
+    {
+
+        "title": "asda",
+
+        "summary": "asdasd",
+            
+        "imdbRating": " ",
+
+        "loc": "lib/assets/image/3.jpg"
+        
+        "watch": "sdf"
+    },
+    {
+
+        "title": "asda",
+
+        "summary": "asdasd",
+            
+        "imdbRating": " ",
+
+        "loc": "lib/assets/image/3.jpg"
+        
+        "watch": "sdf"
+    },
+    {
+
+        "title": "asda",
+
+        "summary": "asdasd",
+            
+        "imdbRating": " ",
+
+        "loc": "lib/assets/image/3.jpg"
+        
+        "watch": "sdf"
+    },
+    {
+
+        "title": "asda",
+
+        "summary": "asdasd",
+            
+        "imdbRating": " ",
+
+        "loc": "lib/assets/image/3.jpg"
+        
+        "watch": "sdf"
+    },
+    {
+
+        "title": "asda",
+
+        "summary": "asdasd",
+            
+        "imdbRating": " ",
+
+        "loc": "lib/assets/image/3.jpg"
+        
+        "watch": "sdf"
+    },
 ]
